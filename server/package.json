@@ -1,0 +1,35 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "description": "app nodejs/react redux/react native/",
+  "main": "app.js",
+  "scripts": {
+    "test": "test",
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VingeB0/node-app.git"
+  },
+  "keywords": [
+    "react",
+    "redux",
+    "nodejs",
+    "react",
+    "native",
+    "mongo"
+  ],
+  "author": "Vladimir Davii",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VingeB0/node-app/issues"
+  },
+  "homepage": "https://github.com/VingeB0/node-app#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "hbs": "^4.0.4",
+    "mongoose": "^5.5.11",
+    "nodemon": "^1.19.1"
+  }
+}
